@@ -1,5 +1,5 @@
 ### About Me :man_technologist:
-Hi, I'm Rodrigo, I'm a student at Universidad De La Salle Bajío in León Guanajuato :mexico:. I'm currently a Software Engineering student and I'm an intern at [CBQA](https://www.cbqasolutions.com/) where I have been working for the last 6 months, also I have done several freelancing projects by myself.
+Hi, I'm Rodrigo, I'm a Software Engineer currently working at [CBQA](https://www.cbqasolutions.com/), also I have done several freelancing projects by myself.
 - :capital_abcd: Spanish and English speaker
 - :keyboard: QA Software Engineer
 
